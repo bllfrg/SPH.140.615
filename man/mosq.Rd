@@ -5,7 +5,7 @@
 \alias{mosq}
 \title{Mosquito data}
 \format{
-An data frame with 24 rows and 3 columns. The response (length) is numeric, the predictors (cage and individual) are factors.
+A data frame with 24 rows and 3 columns. The response (length) is numeric, the predictors (cage and individual) are factors.
 }
 \source{
 \href{https://biostat.jhsph.edu/~iruczins/teaching/140.615/}{Class page}
@@ -14,7 +14,7 @@ An data frame with 24 rows and 3 columns. The response (length) is numeric, the 
 mosq
 }
 \description{
-Data from a an experiment measuring length of mosquito wings (two measurements per mosquito). Four mosquitos per cage. Three cages total.
+Data from an experiment measuring length of mosquito wings (two measurements per mosquito). Four mosquitos per cage. Three cages total.
 }
 \examples{
 mosq

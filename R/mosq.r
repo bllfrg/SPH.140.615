@@ -1,12 +1,12 @@
 #' Mosquito data
 #'
-#' Data from a an experiment measuring length of mosquito wings (two measurements per mosquito). Four mosquitos per cage. Three cages total.
+#' Data from an experiment measuring length of mosquito wings (two measurements per mosquito). Four mosquitos per cage. Three cages total.
 #'
 #' @docType data
 #'
 #' @usage mosq
 #'
-#' @format An data frame with 24 rows and 3 columns. The response (length) is numeric, the predictors (cage and individual) are factors.
+#' @format A data frame with 24 rows and 3 columns. The response (length) is numeric, the predictors (cage and individual) are factors.
 #'
 #' @keywords datasets
 #'
