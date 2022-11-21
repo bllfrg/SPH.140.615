@@ -10,6 +10,12 @@ dot.plot(x, y, includeCI = TRUE, labels = c("A", "B"), xlim)
 \item{x}{Measurements for the first group.}
 
 \item{y}{Measurements for the second group.}
+
+\item{includeCI}{Whether or not to include a 95\% confidence interval. The default is TRUE.}
+
+\item{labels}{Plot labels for the two groups. Default is "A" and "B".}
+
+\item{xlim}{Optional argument for the limits of the x axis.}
 }
 \value{
 The two-group comparison dotplot.

@@ -4,6 +4,9 @@
 
 #' @param x Measurements for the first group.
 #' @param y Measurements for the second group.
+#' @param includeCI Whether or not to include a 95% confidence interval. The default is TRUE.
+#' @param labels Plot labels for the two groups. Default is "A" and "B".
+#' @param xlim Optional argument for the limits of the x axis.
 
 #' @returns The two-group comparison dotplot.
 
