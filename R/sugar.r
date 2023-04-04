@@ -6,7 +6,7 @@
 #'
 #' @usage sugar
 #'
-#' @format An data frame with 50 rows and 2 columns. The response (rsp) is numeric, the treatment (trt) is a factor.
+#' @format A data frame with 50 rows and 2 columns. The response (rsp) is numeric, the treatment (trt) is a factor.
 #'
 #' @keywords datasets
 #'
