@@ -14,7 +14,5 @@
 #'
 #' @examples
 #' spiders
-#' str(spiders)
-#' summary(spiders)
 #' spiders$n.dead/spiders$n
 "spiders"

@@ -18,8 +18,6 @@ Data from an experiment exposing batches of 25 spider mites to different doses o
 }
 \examples{
 spiders
-str(spiders)
-summary(spiders)
 spiders$n.dead/spiders$n
 }
 \keyword{datasets}
